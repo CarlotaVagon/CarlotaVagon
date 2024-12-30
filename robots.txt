@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://CarlotaVagon.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://carlotavagon.github.io/sitemap.xml
